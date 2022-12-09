@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.btn-primary {
+  background-color:  #3d86a0;
+  border-color:#3d86a0;
+}
+
+.btn-primary:hover {
+  background-color: #36768e;
+  border-color:    #36768e;
+}
+
+
+.bg-admin {
+  background-color: #252525;
+}
+
+.admin-nav a:hover {
+  color: #36768e;
+}

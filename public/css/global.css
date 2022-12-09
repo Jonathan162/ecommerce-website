@@ -1,0 +1,53 @@
+/* Global */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 2;
+}
+
+
+.btn-primary {
+  background-color:  #3d86a0;
+  border-color:#3d86a0;
+}
+
+.btn-primary:hover {
+  background-color: #36768e;
+  border-color: #36768e;
+}
+
+:root {
+  --blue: #3d86a0;
+  --primary: #3d86a0;
+}
+
+a {
+  color:  #3d86a0;
+}
+
+a:hover {
+  color: #36768e;
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 100px;
+}
+
+.admin-nav a:hover {
+  color: #36768e;
+}
+

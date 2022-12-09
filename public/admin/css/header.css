@@ -1,0 +1,17 @@
+a {
+  color: white;
+  font-size: 16px;
+ }
+ 
+ a:hover {
+  color: white;
+  text-decoration: none;
+ }
+
+ header {
+  min-height: 5vh;
+ }
+
+ .navbar {
+  padding: 1rem 2rem;
+ }
