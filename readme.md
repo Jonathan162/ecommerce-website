@@ -1,4 +1,4 @@
-- NORWAY POSTER -
+- NORWAY POSTER
 
 A school project. We made an e-commerce store with HTML, CSS, JavaScript and PHP. DB calls, admin, AJAX, cart, checkout and more. 
 
